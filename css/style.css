@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: #dce9f0;
+}
+
+/* styling start here */
+
+/* logo style */
+
+.logo-svg {
+  width: 200px;
+}
+
+/* .menu-lists {
+  padding: 45px;
+} */
+
+.navbar-top {
+  border-bottom: 10px solid #38b6ff;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+/* .card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: 10px;
+} */
+
+.card-1 {
+  background: #dce9f0;
+  margin: 5px;
+  padding: 30px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: 5px solid #0d5883;
+  border-top: 5px solid #0d5883;
+}
+
+.bi {
+  font-size: 3rem;
+  color: rgb(19, 187, 209);
+}
+
+.card {
+  border-bottom-left-radius: 20px;
+  border-bottom: 5px solid #38b6ff;
+  margin: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.main-card {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.img-fluid {
+  width: 750px;
+  height: auto;
+}
+
+.slider-div {
+  background: #050505a9;
+  padding: 0;
+  margin: 0;
+  border-radius: 10px;
+}
+
+.slider-btn {
+  margin-bottom: 20px;
+}
+
+.h4 {
+  font-size: 2.5rem;
+  padding-top: 25px;
+  color: white;
+}
+
+.h5 {
+  font-size: 0.95rem;
+  font-weight: 100;
+  color: white;
+}
+
+.fency-text {
+  font-family: "Sacramento", cursive;
+  font-size: 1.5rem;
+  color: #38b6ff;
+  font-weight: 100;
+}
+
+.card-main {
+  background: #414a50;
+  padding: 50px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-main-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 5px solid #38b6ff;
+  border-top: 5px solid #38b6ff;
+  border-radius: 10px;
+}
+
+.sessions-card {
+  padding-top: 50px;
+}
+
+.card-text {
+  font-size: 0.95rem;
+}
+
+.sessions-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.sessions-style-text {
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+  color: #38b6ff;
+}
+
+.style-paragraph {
+  font-family: "Sacramento", cursive;
+  font-size: 2rem;
+  color: #38b6ff;
+}
+
+/* .slider-top {
+  margin-top: 500px;
+} */ ;
