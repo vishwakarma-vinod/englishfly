@@ -9,6 +9,11 @@ body {
   background: #dce9f0;
 }
 
+.navbar-icon {
+  background: #38b6ff;
+  padding: 10px;
+}
+
 /* styling start here */
 
 /* logo style */
@@ -66,10 +71,10 @@ body {
   flex-wrap: wrap;
 }
 
-.img-fluid {
+/* .img-fluid {
   width: 750px;
   height: auto;
-}
+} */
 
 .slider-div {
   background: #050505a9;

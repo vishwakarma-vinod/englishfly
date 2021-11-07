@@ -15,9 +15,9 @@
     align-items: center;
   }
 
-  /* .slider-top {
+  .slider-top {
     margin-top: 100px;
-  } */
+  }
 
   .slider-text {
     padding-top: 20px;
@@ -81,9 +81,9 @@
     align-items: center;
   }
 
-  /* .slider-top {
+  .slider-top {
     margin-top: 100px;
-  } */
+  }
 
   .slider-text {
     font-size: 1.1rem;
@@ -135,9 +135,9 @@
     width: 190px;
   }
 
-  /* .slider-top {
+  .slider-top {
     margin-top: 100px;
-  } */
+  }
 
   .card {
     border-bottom-left-radius: 20px;
