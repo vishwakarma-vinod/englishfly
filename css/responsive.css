@@ -62,6 +62,51 @@
     font-size: 2rem;
     color: #38b6ff;
   }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -128,6 +173,51 @@
     font-size: 2.5rem;
     color: #38b6ff;
   }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
+  }
 }
 
 @media screen and (max-width: 630px) {
@@ -190,6 +280,51 @@
     font-size: 2.5rem;
     color: #38b6ff;
   }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
+  }
 }
 
 @media screen and (max-width: 730px) {
@@ -232,6 +367,51 @@
     font-size: 2.5rem;
     color: #38b6ff;
   }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
+  }
 }
 
 @media screen and (max-width: 830px) {
@@ -272,6 +452,51 @@
     align-items: center;
     flex-wrap: wrap;
   }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
+  }
 }
 
 @media screen and (max-width: 930px) {
@@ -311,5 +536,50 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+  }
+
+  .card-details {
+    background: #23078a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card-detail {
+    background: #23078a;
+    border: none;
+    color: white;
+    text-align: center;
+  }
+
+  .card-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    color: #999;
+  }
+
+  .quotes-card {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .quote-card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .author-name {
+    font-weight: 700;
   }
 }

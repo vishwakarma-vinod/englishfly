@@ -150,6 +150,42 @@ body {
   color: #38b6ff;
 }
 
+.card-details {
+  background: #23078a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-detail {
+  background: #23078a;
+  border: none;
+  color: white;
+  text-align: center;
+}
+
+.card-main-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #999;
+}
+
+.quotes-card {
+  background: #fff;
+}
+
+.quote-card {
+  border: none;
+}
+
+.author-name {
+  font-weight: 700;
+}
+
 /* .slider-top {
   margin-top: 500px;
 } */ ;
