@@ -186,6 +186,17 @@ body {
   font-weight: 700;
 }
 
+.learning-btn {
+  background: #38b6ff;
+  border: none;
+  color: #fff;
+}
+
+.learning-btn:hover {
+  background:#FF5757;
+  transition: 0.7s;
+  color: rgb(218, 218, 218);
+
 /* .slider-top {
   margin-top: 500px;
 } */ ;
